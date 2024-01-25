@@ -1,0 +1,78 @@
+Caian Marcinkowski Ferreira
+Rua: Machadinho, 1704, bloco 9, Apartamento 502.
+Rio Branco - Canoas - RS
+Telefone: (51) 98606-4792 Nasc. 15/04/1996
+E-mail: caianferre@gmail.com
+• Github: CaianMarcinkowski
+(https://github.com/CaianMarcinkowski)
+• Linkedin: Caian Marcinkowski Ferreira 
+(https://www.linkedin.com/in/caian-marcinkowski-ferreira-bb541a137/)
+• Site Portifólio: 
+http://ec2-18-228-94-206.sa-east-1.compute.amazonaws.com/
+Objetivo
+ 
+• Meu objetivo profissional é fazer parte de uma equipe dinâmica e 
+inovadora onde eu possa contribuir com minhas habilidades e 
+conhecimentos, ao mesmo tempo em que estou aberto a aprender 
+e trocar experiências com meus colegas e a empresa. Acredito que 
+essa colaboração mútua é essencial para o crescimento 
+profissional tanto individual quanto coletivo. Estou comprometido 
+em me desenvolver continuamente e em aproveitar as 
+oportunidades de aprendizado que esta empresa oferece, a fim de 
+alcançarmos juntos novos patamares de sucesso.
+Conhecimentos
+• Linguagens de Programação: 
+JAVA, JavaScript, Node.js e Python;
+• Frameworks: 
+Spring Boot, React e Android Nativo (Com Java);
+• Bancos de Dados:
+MySQL e Oracle DB;
+• Sistema Operacional: 
+Linux;
+• Versionamento: 
+Git e GitHub;
+• Em Estudo Atualmente: 
+NEXT.js, AWS EC2 e MongoDB;
+• Como hobby gosto de criar projetos em Arduino (Linguagem C).
+Experiências 
+Programador Em Maven – 01/11/2022 - 15/06/2023:
+• Java SE e Javascript;
+• Solr;
+• Sql e Oracle;
+• Git e AWS Commit;
+• Linux;
+• JQuery;
+• SAOP e REST.
+Especialista em TI em Grupo ECORE – 17/06/2020 - 25/11/2022:
+• Desenvolvedor Back-End (Node.JS - Java – SQL - Mongo);
+• Auxiliar Front-end (React);
+• Integração com outros sistemas via REST;
+• Suporte a usuários do sistema;
+• Criador do App de Gestão “Fitoapp” na empresa Fitolog 
+licenciamento de franquias (Android Nativo - Java);
+• Manutenções em computadores e servidores;
+• DBA.
+Estagiário em Fitolog – 17/06/2019 - 17/06/2020:
+• Suporte nas manutenções dos equipamentos;
+• Envio de substituição de peças;
+• Solucionar eventuais problemas com os parceiros da empresa.
+Vendedor em Digimer Produtos de Informática – 14/11/2017 a 
+17/06/2019:
+• Venda de produtos de informática para PJ e PF; 
+• Atendimento ao público.
+Soldado Engajado no 3º Batalhão de polícia do exército – 01/03/2015 
+a 28/02/2017:
+• Auxiliar de comunicação.
+• Carta de recomendação e Honra ao mérito pelo exército 
+brasileiro.
+Estagiário em PUCRS – 04/08/2014 a 04/12/2014:
+• Auxiliar no laboratório de informática do prédio 6.
+• Auxiliar na montagem de projetores para apresentação de 
+professores em sala de aula.
+• Manutenção dos computadores do laboratório.
+Formação
+• Cursando Ensino Superior em Ciência da Computação – Quinto 
+semestre – Uniritter - FAPA – Av. Manoel Elias – Porto AlegreRS.
+• Técnico em Informática Escolas e Faculdades QI – Assis Brasil 
+– Porto Alegre – Concluído em 2016.
+• Habilitação: categoria B
